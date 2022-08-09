@@ -1,0 +1,404 @@
+,varname,varcategory
+1,COMID,
+2,CatAreaSqKm,Cat
+3,WsAreaSqKm,Ws
+4,CatPctFull,Cat
+5,WsPctFull,Ws
+6,PctAg2006Slp10Cat,"Cat,Agri,Land cover,Land cover on hillslopes"
+7,PctAg2006Slp10Ws,"Ws,Agri,Land cover,Land cover on hillslopes"
+8,PctAg2006Slp20Cat,"Cat,Agri,Land cover,Land cover on hillslopes"
+9,PctAg2006Slp20Ws,"Ws,Agri,Land cover,Land cover on hillslopes"
+10,CBNFCat,"Cat,Nutrients"
+11,CBNFWs,"Ws,Nutrients"
+12,FertCat,"Cat,Agri"
+13,FertWs,"Ws,Agri"
+14,ManureCat,"Cat,Agri"
+15,ManureWs,"Ws,Agri"
+16,PctUSGACat,Cat
+17,PctSSACat,Cat
+18,PctSACat,Cat
+19,PctCRACat,Cat
+20,PctSCRACat,Cat
+21,PctIMRACat,Cat
+22,PctORCat,Cat
+23,PctUSGAWs,Ws
+24,PctSSAWs,Ws
+25,PctSAWs,Ws
+26,PctCRAWs,Ws
+27,PctSCRAWs,Ws
+28,PctIMRAWs,Ws
+29,PctORWs,Ws
+30,BFICat,"Cat,Hydro"
+31,BFIWs,"Ws,Hydro"
+32,CoalMineDensCat,"Cat,Mining"
+33,CoalMineDensWs,"Ws,Mining"
+34,DamDensCat,"Cat,Dams"
+35,DamNIDStorCat,"Cat,Dams"
+36,DamNrmStorCat,"Cat,Dams"
+37,DamDensWs,"Ws,Dams"
+38,DamNIDStorWs,"Ws,Dams"
+39,DamNrmStorWs,"Ws,Dams"
+40,ElevCat,Cat
+41,ElevWs,Ws
+42,Na2OCat,"Cat,Geochem"
+43,Na2OWs,"Ws,Geochem"
+44,Al2O3Cat,"Cat,Geochem"
+45,Al2O3Ws,"Ws,Geochem"
+46,CaOCat,"Cat,Geochem"
+47,CaOWs,"Ws,Geochem"
+48,Fe2O3Cat,"Cat,Geochem"
+49,Fe2O3Ws,"Ws,Geochem"
+50,SiO2Cat,"Cat,Geochem"
+51,SiO2Ws,"Ws,Geochem"
+52,MgOCat,"Cat,Geochem"
+53,MgOWs,"Ws,Geochem"
+54,SCat,"Cat,Geochem"
+55,SWs,Ws
+56,P2O5Cat,"Cat,Geochem"
+57,P2O5Ws,"Ws,Geochem"
+58,K2OCat,"Cat,Geochem"
+59,K2OWs,"Ws,Geochem"
+60,NCat,Cat
+61,NWs,Ws
+62,HydrlCondCat,"Cat,Hydro"
+63,HydrlCondWs,"Ws,Hydro"
+64,PctImp2006Cat,"Cat,Urban,Land cover"
+65,PctImp2006Ws,"Ws,Urban,Land cover"
+66,PctImp2008Cat,"Cat,Urban,Land cover"
+67,PctImp2008Ws,"Ws,Urban,Land cover"
+68,PctImp2011Cat,"Cat,Urban,Land cover"
+69,PctImp2011Ws,"Ws,Urban,Land cover"
+70,PctImp2001Cat,"Cat,Urban,Land cover"
+71,PctImp2001Ws,"Ws,Urban,Land cover"
+72,PctImp2013Cat,"Cat,Urban,Land cover"
+73,PctImp2013Ws,"Ws,Urban,Land cover"
+74,PctImp2019Cat,"Cat,Urban,Land cover"
+75,PctImp2019Ws,"Ws,Urban,Land cover"
+76,PctImp2016Cat,"Cat,Urban,Land cover"
+77,PctImp2016Ws,"Ws,Urban,Land cover"
+78,PctImp2004Cat,"Cat,Urban,Land cover"
+79,PctImp2004Ws,"Ws,Urban,Land cover"
+80,CatAreaSqKmSlp20,"Cat,Land cover on hillslopes"
+81,WsAreaSqKmSlp20,"Ws,Land cover on hillslopes"
+82,CatPctFullSlp20,"Cat,Land cover on hillslopes"
+83,WsPctFullSlp20,"Ws,Land cover on hillslopes"
+84,PctImp2001CatSlp20,"Cat,Urban,Land cover,Land cover on hillslopes"
+85,PctImp2001WsSlp20,"Ws,Urban,Land cover,Land cover on hillslopes"
+86,PctImp2008CatSlp20,"Cat,Urban,Land cover,Land cover on hillslopes"
+87,PctImp2008WsSlp20,"Ws,Urban,Land cover,Land cover on hillslopes"
+88,PctImp2013CatSlp20,"Cat,Urban,Land cover,Land cover on hillslopes"
+89,PctImp2013WsSlp20,"Ws,Urban,Land cover,Land cover on hillslopes"
+90,PctImp2019CatSlp20,"Cat,Urban,Land cover,Land cover on hillslopes"
+91,PctImp2019WsSlp20,"Ws,Urban,Land cover,Land cover on hillslopes"
+92,PctImp2006CatSlp20,"Cat,Urban,Land cover,Land cover on hillslopes"
+93,PctImp2006WsSlp20,"Ws,Urban,Land cover,Land cover on hillslopes"
+94,PctImp2011CatSlp20,"Cat,Urban,Land cover,Land cover on hillslopes"
+95,PctImp2011WsSlp20,"Ws,Urban,Land cover,Land cover on hillslopes"
+96,PctImp2016CatSlp20,"Cat,Urban,Land cover,Land cover on hillslopes"
+97,PctImp2016WsSlp20,"Ws,Urban,Land cover,Land cover on hillslopes"
+98,PctImp2004CatSlp20,"Cat,Urban,Land cover,Land cover on hillslopes"
+99,PctImp2004WsSlp20,"Ws,Urban,Land cover,Land cover on hillslopes"
+100,CatAreaSqKmSlp10,"Cat,Land cover on hillslopes"
+101,WsAreaSqKmSlp10,"Ws,Land cover on hillslopes"
+102,CatPctFullSlp10,"Cat,Land cover on hillslopes"
+103,WsPctFullSlp10,"Ws,Land cover on hillslopes"
+104,PctImp2016CatSlp10,"Cat,Urban,Land cover,Land cover on hillslopes"
+105,PctImp2016WsSlp10,"Ws,Urban,Land cover,Land cover on hillslopes"
+106,PctImp2006CatSlp10,"Cat,Urban,Land cover,Land cover on hillslopes"
+107,PctImp2006WsSlp10,"Ws,Urban,Land cover,Land cover on hillslopes"
+108,PctImp2013CatSlp10,"Cat,Urban,Land cover,Land cover on hillslopes"
+109,PctImp2013WsSlp10,"Ws,Urban,Land cover,Land cover on hillslopes"
+110,PctImp2001CatSlp10,"Cat,Urban,Land cover,Land cover on hillslopes"
+111,PctImp2001WsSlp10,"Ws,Urban,Land cover,Land cover on hillslopes"
+112,PctImp2019CatSlp10,"Cat,Urban,Land cover,Land cover on hillslopes"
+113,PctImp2019WsSlp10,"Ws,Urban,Land cover,Land cover on hillslopes"
+114,PctImp2004CatSlp10,"Cat,Urban,Land cover,Land cover on hillslopes"
+115,PctImp2004WsSlp10,"Ws,Urban,Land cover,Land cover on hillslopes"
+116,PctImp2011CatSlp10,"Cat,Urban,Land cover,Land cover on hillslopes"
+117,PctImp2011WsSlp10,"Ws,Urban,Land cover,Land cover on hillslopes"
+118,PctImp2008CatSlp10,"Cat,Urban,Land cover,Land cover on hillslopes"
+119,PctImp2008WsSlp10,"Ws,Urban,Land cover,Land cover on hillslopes"
+120,CatAreaSqKmRp100,"Cat,Riparian buffer 100m"
+121,WsAreaSqKmRp100,"Ws,Riparian buffer 100m"
+122,CatPctFullRp100,"Cat,Riparian buffer 100m"
+123,WsPctFullRp100,"Ws,Riparian buffer 100m"
+124,PctImp2008CatRp100,"Cat,Urban,Land cover,Riparian buffer 100m"
+125,PctImp2008WsRp100,"Ws,Urban,Land cover,Riparian buffer 100m"
+126,PctImp2019CatRp100,"Cat,Urban,Land cover,Riparian buffer 100m"
+127,PctImp2019WsRp100,"Ws,Urban,Land cover,Riparian buffer 100m"
+128,PctImp2006CatRp100,"Cat,Urban,Land cover,Riparian buffer 100m"
+129,PctImp2006WsRp100,"Ws,Urban,Land cover,Riparian buffer 100m"
+130,PctImp2011CatRp100,"Cat,Urban,Land cover,Riparian buffer 100m"
+131,PctImp2011WsRp100,"Ws,Urban,Land cover,Riparian buffer 100m"
+132,PctImp2001CatRp100,"Cat,Urban,Land cover,Riparian buffer 100m"
+133,PctImp2001WsRp100,"Ws,Urban,Land cover,Riparian buffer 100m"
+134,PctImp2004CatRp100,"Cat,Urban,Land cover,Riparian buffer 100m"
+135,PctImp2004WsRp100,"Ws,Urban,Land cover,Riparian buffer 100m"
+136,PctImp2013CatRp100,"Cat,Urban,Land cover,Riparian buffer 100m"
+137,PctImp2013WsRp100,"Ws,Urban,Land cover,Riparian buffer 100m"
+138,PctImp2016CatRp100,"Cat,Urban,Land cover,Riparian buffer 100m"
+139,PctImp2016WsRp100,"Ws,Urban,Land cover,Riparian buffer 100m"
+140,AgKffactCat,"Cat,Agri,Soil"
+141,AgKffactWs,"Ws,Agri,Soil"
+142,KffactCat,"Cat,Soil"
+143,KffactWs,"Ws,Soil"
+144,PctCarbResidCat,Cat
+145,PctNonCarbResidCat,Cat
+146,PctAlkIntruVolCat,Cat
+147,PctSilicicCat,Cat
+148,PctExtruVolCat,Cat
+149,PctColluvSedCat,Cat
+150,PctGlacTilClayCat,"Cat,Soil"
+151,PctGlacTilLoamCat,Cat
+152,PctGlacTilCrsCat,Cat
+153,PctGlacLakeCrsCat,Cat
+154,PctGlacLakeFineCat,Cat
+155,PctHydricCat,Cat
+156,PctEolCrsCat,Cat
+157,PctEolFineCat,Cat
+158,PctSalLakeCat,Cat
+159,PctAlluvCoastCat,Cat
+160,PctCoastCrsCat,Cat
+161,PctWaterCat,"Cat,Hydro"
+162,PctCarbResidWs,Ws
+163,PctNonCarbResidWs,Ws
+164,PctAlkIntruVolWs,Ws
+165,PctSilicicWs,Ws
+166,PctExtruVolWs,Ws
+167,PctColluvSedWs,Ws
+168,PctGlacTilClayWs,"Ws,Soil"
+169,PctGlacTilLoamWs,Ws
+170,PctGlacTilCrsWs,Ws
+171,PctGlacLakeCrsWs,Ws
+172,PctGlacLakeFineWs,Ws
+173,PctHydricWs,Ws
+174,PctEolCrsWs,Ws
+175,PctEolFineWs,Ws
+176,PctSalLakeWs,Ws
+177,PctAlluvCoastWs,Ws
+178,PctCoastCrsWs,Ws
+179,PctWaterWs,"Ws,Hydro"
+180,MineDensCat,"Cat,Mining"
+181,MineDensWs,"Ws,Mining"
+182,MineDensCatRp100,"Cat,Mining,Riparian buffer 100m"
+183,MineDensWsRp100,"Ws,Mining,Riparian buffer 100m"
+184,NABD_DensCat,Cat
+185,NABD_NIDStorCat,Cat
+186,NABD_NrmStorCat,"Cat,Dams"
+187,NABD_DensWs,Ws
+188,NABD_NIDStorWs,Ws
+189,NABD_NrmStorWs,"Ws,Dams"
+190,SN_2008Cat,"Cat,Nutrients"
+191,SN_2008Ws,"Ws,Nutrients"
+192,NO3_2008Cat,"Cat,Nutrients"
+193,NO3_2008Ws,"Ws,Nutrients"
+194,InorgNWetDep_2008Cat,"Cat,Nutrients"
+195,InorgNWetDep_2008Ws,"Ws,Nutrients"
+196,NH4_2008Cat,"Cat,Nutrients"
+197,NH4_2008Ws,"Ws,Nutrients"
+198,PctOw2001Cat,"Cat,Land cover"
+199,PctIce2001Cat,"Cat,Land cover"
+200,PctUrbOp2001Cat,"Cat,Urban,Land cover"
+201,PctUrbLo2001Cat,"Cat,Urban,Land cover"
+202,PctUrbMd2001Cat,"Cat,Urban,Land cover"
+203,PctUrbHi2001Cat,"Cat,Urban,Land cover"
+204,PctBl2001Cat,"Cat,Land cover"
+205,PctDecid2001Cat,"Cat,Land cover"
+206,PctConif2001Cat,"Cat,Land cover"
+207,PctMxFst2001Cat,"Cat,Land cover"
+208,PctShrb2001Cat,"Cat,Land cover"
+209,PctGrs2001Cat,"Cat,Land cover"
+210,PctHay2001Cat,"Cat,Land cover"
+211,PctCrop2001Cat,"Cat,Land cover"
+212,PctWdWet2001Cat,"Cat,Land cover"
+213,PctHbWet2001Cat,"Cat,Land cover"
+214,PctOw2001Ws,"Ws,Land cover"
+215,PctIce2001Ws,"Ws,Land cover"
+216,PctUrbOp2001Ws,"Ws,Urban,Land cover"
+217,PctUrbLo2001Ws,"Ws,Urban,Land cover"
+218,PctUrbMd2001Ws,"Ws,Urban,Land cover"
+219,PctUrbHi2001Ws,"Ws,Urban,Land cover"
+220,PctBl2001Ws,"Ws,Land cover"
+221,PctDecid2001Ws,"Ws,Land cover"
+222,PctConif2001Ws,"Ws,Land cover"
+223,PctMxFst2001Ws,"Ws,Land cover"
+224,PctShrb2001Ws,"Ws,Land cover"
+225,PctGrs2001Ws,"Ws,Land cover"
+226,PctHay2001Ws,"Ws,Land cover"
+227,PctCrop2001Ws,"Ws,Land cover"
+228,PctWdWet2001Ws,"Ws,Land cover"
+229,PctHbWet2001Ws,"Ws,Land cover"
+230,PctOw2001CatSlp20,"Cat,Land cover,Land cover on hillslopes"
+231,PctIce2001CatSlp20,"Cat,Land cover,Land cover on hillslopes"
+232,PctUrbOp2001CatSlp20,"Cat,Urban,Land cover,Land cover on hillslopes"
+233,PctUrbLo2001CatSlp20,"Cat,Urban,Land cover,Land cover on hillslopes"
+234,PctUrbMd2001CatSlp20,"Cat,Urban,Land cover,Land cover on hillslopes"
+235,PctUrbHi2001CatSlp20,"Cat,Urban,Land cover,Land cover on hillslopes"
+236,PctBl2001CatSlp20,"Cat,Land cover,Land cover on hillslopes"
+237,PctDecid2001CatSlp20,"Cat,Land cover,Land cover on hillslopes"
+238,PctConif2001CatSlp20,"Cat,Land cover,Land cover on hillslopes"
+239,PctMxFst2001CatSlp20,"Cat,Land cover,Land cover on hillslopes"
+240,PctShrb2001CatSlp20,"Cat,Land cover,Land cover on hillslopes"
+241,PctGrs2001CatSlp20,"Cat,Land cover,Land cover on hillslopes"
+242,PctHay2001CatSlp20,"Cat,Land cover,Land cover on hillslopes"
+243,PctCrop2001CatSlp20,"Cat,Land cover,Land cover on hillslopes"
+244,PctWdWet2001CatSlp20,"Cat,Land cover,Land cover on hillslopes"
+245,PctHbWet2001CatSlp20,"Cat,Land cover,Land cover on hillslopes"
+246,PctOw2001WsSlp20,"Ws,Land cover,Land cover on hillslopes"
+247,PctIce2001WsSlp20,"Ws,Land cover,Land cover on hillslopes"
+248,PctUrbOp2001WsSlp20,"Ws,Urban,Land cover,Land cover on hillslopes"
+249,PctUrbLo2001WsSlp20,"Ws,Urban,Land cover,Land cover on hillslopes"
+250,PctUrbMd2001WsSlp20,"Ws,Urban,Land cover,Land cover on hillslopes"
+251,PctUrbHi2001WsSlp20,"Ws,Urban,Land cover,Land cover on hillslopes"
+252,PctBl2001WsSlp20,"Ws,Land cover,Land cover on hillslopes"
+253,PctDecid2001WsSlp20,"Ws,Land cover,Land cover on hillslopes"
+254,PctConif2001WsSlp20,"Ws,Land cover,Land cover on hillslopes"
+255,PctMxFst2001WsSlp20,"Ws,Land cover,Land cover on hillslopes"
+256,PctShrb2001WsSlp20,"Ws,Land cover,Land cover on hillslopes"
+257,PctGrs2001WsSlp20,"Ws,Land cover,Land cover on hillslopes"
+258,PctHay2001WsSlp20,"Ws,Land cover,Land cover on hillslopes"
+259,PctCrop2001WsSlp20,"Ws,Land cover,Land cover on hillslopes"
+260,PctWdWet2001WsSlp20,"Ws,Land cover,Land cover on hillslopes"
+261,PctHbWet2001WsSlp20,"Ws,Land cover,Land cover on hillslopes"
+262,PctOw2001CatSlp10,"Cat,Land cover,Land cover on hillslopes"
+263,PctIce2001CatSlp10,"Cat,Land cover,Land cover on hillslopes"
+264,PctUrbOp2001CatSlp10,"Cat,Urban,Land cover,Land cover on hillslopes"
+265,PctUrbLo2001CatSlp10,"Cat,Urban,Land cover,Land cover on hillslopes"
+266,PctUrbMd2001CatSlp10,"Cat,Urban,Land cover,Land cover on hillslopes"
+267,PctUrbHi2001CatSlp10,"Cat,Urban,Land cover,Land cover on hillslopes"
+268,PctBl2001CatSlp10,"Cat,Land cover,Land cover on hillslopes"
+269,PctDecid2001CatSlp10,"Cat,Land cover,Land cover on hillslopes"
+270,PctConif2001CatSlp10,"Cat,Land cover,Land cover on hillslopes"
+271,PctMxFst2001CatSlp10,"Cat,Land cover,Land cover on hillslopes"
+272,PctShrb2001CatSlp10,"Cat,Land cover,Land cover on hillslopes"
+273,PctGrs2001CatSlp10,"Cat,Land cover,Land cover on hillslopes"
+274,PctHay2001CatSlp10,"Cat,Land cover,Land cover on hillslopes"
+275,PctCrop2001CatSlp10,"Cat,Land cover,Land cover on hillslopes"
+276,PctWdWet2001CatSlp10,"Cat,Land cover,Land cover on hillslopes"
+277,PctHbWet2001CatSlp10,"Cat,Land cover,Land cover on hillslopes"
+278,PctOw2001WsSlp10,"Ws,Land cover,Land cover on hillslopes"
+279,PctIce2001WsSlp10,"Ws,Land cover,Land cover on hillslopes"
+280,PctUrbOp2001WsSlp10,"Ws,Urban,Land cover,Land cover on hillslopes"
+281,PctUrbLo2001WsSlp10,"Ws,Urban,Land cover,Land cover on hillslopes"
+282,PctUrbMd2001WsSlp10,"Ws,Urban,Land cover,Land cover on hillslopes"
+283,PctUrbHi2001WsSlp10,"Ws,Urban,Land cover,Land cover on hillslopes"
+284,PctBl2001WsSlp10,"Ws,Land cover,Land cover on hillslopes"
+285,PctDecid2001WsSlp10,"Ws,Land cover,Land cover on hillslopes"
+286,PctConif2001WsSlp10,"Ws,Land cover,Land cover on hillslopes"
+287,PctMxFst2001WsSlp10,"Ws,Land cover,Land cover on hillslopes"
+288,PctShrb2001WsSlp10,"Ws,Land cover,Land cover on hillslopes"
+289,PctGrs2001WsSlp10,"Ws,Land cover,Land cover on hillslopes"
+290,PctHay2001WsSlp10,"Ws,Land cover,Land cover on hillslopes"
+291,PctCrop2001WsSlp10,"Ws,Land cover,Land cover on hillslopes"
+292,PctWdWet2001WsSlp10,"Ws,Land cover,Land cover on hillslopes"
+293,PctHbWet2001WsSlp10,"Ws,Land cover,Land cover on hillslopes"
+294,PctOw2001CatRp100,"Cat,Land cover,Riparian buffer 100m"
+295,PctIce2001CatRp100,"Cat,Land cover,Riparian buffer 100m"
+296,PctUrbOp2001CatRp100,"Cat,Urban,Land cover,Riparian buffer 100m"
+297,PctUrbLo2001CatRp100,"Cat,Urban,Land cover,Riparian buffer 100m"
+298,PctUrbMd2001CatRp100,"Cat,Urban,Land cover,Riparian buffer 100m"
+299,PctUrbHi2001CatRp100,"Cat,Urban,Land cover,Riparian buffer 100m"
+300,PctBl2001CatRp100,"Cat,Land cover,Riparian buffer 100m"
+301,PctDecid2001CatRp100,"Cat,Land cover,Riparian buffer 100m"
+302,PctConif2001CatRp100,"Cat,Land cover,Riparian buffer 100m"
+303,PctMxFst2001CatRp100,"Cat,Land cover,Riparian buffer 100m"
+304,PctShrb2001CatRp100,"Cat,Land cover,Riparian buffer 100m"
+305,PctGrs2001CatRp100,"Cat,Land cover,Riparian buffer 100m"
+306,PctHay2001CatRp100,"Cat,Land cover,Riparian buffer 100m"
+307,PctCrop2001CatRp100,"Cat,Land cover,Riparian buffer 100m"
+308,PctWdWet2001CatRp100,"Cat,Land cover,Riparian buffer 100m"
+309,PctHbWet2001CatRp100,"Cat,Land cover,Riparian buffer 100m"
+310,PctOw2001WsRp100,"Ws,Land cover,Riparian buffer 100m"
+311,PctIce2001WsRp100,"Ws,Land cover,Riparian buffer 100m"
+312,PctUrbOp2001WsRp100,"Ws,Urban,Land cover,Riparian buffer 100m"
+313,PctUrbLo2001WsRp100,"Ws,Urban,Land cover,Riparian buffer 100m"
+314,PctUrbMd2001WsRp100,"Ws,Urban,Land cover,Riparian buffer 100m"
+315,PctUrbHi2001WsRp100,"Ws,Urban,Land cover,Riparian buffer 100m"
+316,PctBl2001WsRp100,"Ws,Land cover,Riparian buffer 100m"
+317,PctDecid2001WsRp100,"Ws,Land cover,Riparian buffer 100m"
+318,PctConif2001WsRp100,"Ws,Land cover,Riparian buffer 100m"
+319,PctMxFst2001WsRp100,"Ws,Land cover,Riparian buffer 100m"
+320,PctShrb2001WsRp100,"Ws,Land cover,Riparian buffer 100m"
+321,PctGrs2001WsRp100,"Ws,Land cover,Riparian buffer 100m"
+322,PctHay2001WsRp100,"Ws,Land cover,Riparian buffer 100m"
+323,PctCrop2001WsRp100,"Ws,Land cover,Riparian buffer 100m"
+324,PctWdWet2001WsRp100,"Ws,Land cover,Riparian buffer 100m"
+325,PctHbWet2001WsRp100,"Ws,Land cover,Riparian buffer 100m"
+326,PctNonAgIntrodManagVegCat,"Cat,Agri"
+327,PctNonAgIntrodManagVegWs,"Ws,Agri"
+328,PctNonAgIntrodManagVegCatRp100,"Cat,Agri,Riparian buffer 100m"
+329,PctNonAgIntrodManagVegWsRp100,"Ws,Agri,Riparian buffer 100m"
+330,NsurpCat,"Cat,Nutrients"
+331,NsurpWs,"Ws,Nutrients"
+332,NANICat,"Cat,Nutrients"
+333,NANIWs,"Ws,Nutrients"
+334,Pestic97Cat,"Cat,Pesticide"
+335,Pestic97Ws,"Ws,Pesticide"
+336,Precip_Minus_EVTCat,"Cat,Climate"
+337,Precip_Minus_EVTWs,"Ws,Climate"
+338,Precip08Cat,"Cat,Climate"
+339,Precip08Ws,"Ws,Climate"
+340,Precip09Cat,"Cat,Climate"
+341,Precip09Ws,"Ws,Climate"
+342,PrecipCat,"Cat,Climate"
+343,TmaxCat,"Cat,Climate"
+344,TmeanCat,"Cat,Climate"
+345,TminCat,"Cat,Climate"
+346,PrecipWs,"Ws,Climate"
+347,TmaxWs,"Ws,Climate"
+348,TmeanWs,"Ws,Climate"
+349,TminWs,"Ws,Climate"
+350,MAST_2008,
+351,MAST_2009,
+352,MAST_2013,
+353,MAST_2014,
+354,MSST_2008,
+355,MSST_2009,
+356,MSST_2013,
+357,MSST_2014,
+358,MWST_2008,
+359,MWST_2009,
+360,MWST_2013,
+361,MWST_2014,
+362,RdDensCat,"Cat,Roads"
+363,RdDensWs,"Ws,Roads"
+364,RdDensCatRp100,"Cat,Roads,Riparian buffer 100m"
+365,RdDensWsRp100,"Ws,Roads,Riparian buffer 100m"
+366,RdCrsCat,"Cat,Roads"
+367,RdCrsSlpWtdCat,"Cat,Roads,Land cover on hillslopes"
+368,RdCrsWs,"Ws,Roads"
+369,RdCrsSlpWtdWs,"Ws,Roads,Land cover on hillslopes"
+370,RockNCat,Cat
+371,RockNWs,Ws
+372,RunoffCat,"Cat,Hydro"
+373,RunoffWs,"Ws,Hydro"
+374,SepticCat,"Cat,Urban"
+375,SepticWs,"Ws,Urban"
+376,ClayCat,"Cat,Soil"
+377,ClayWs,"Ws,Soil"
+378,SandCat,"Cat,Soil"
+379,SandWs,"Ws,Soil"
+380,WtDepCat,Cat
+381,WtDepWs,Ws
+382,OmCat,"Cat,Soil"
+383,OmWs,"Ws,Soil"
+384,PermCat,"Cat,Soil"
+385,PermWs,"Ws,Soil"
+386,RckDepCat,Cat
+387,RckDepWs,Ws
+388,HUDen2010Cat,"Cat,Urban"
+389,HUDen2010Ws,"Ws,Urban"
+390,PopDen2010Cat,"Cat,Urban"
+391,PopDen2010Ws,"Ws,Urban"
+392,HUDen2010CatRp100,"Cat,Urban,Riparian buffer 100m"
+393,HUDen2010WsRp100,"Ws,Urban,Riparian buffer 100m"
+394,PopDen2010CatRp100,"Cat,Urban,Riparian buffer 100m"
+395,PopDen2010WsRp100,"Ws,Urban,Riparian buffer 100m"
+396,WetIndexCat,Cat
+397,WetIndexWs,Ws
+398,WWTPMajorDensCat,"Cat,Urban"
+399,WWTPMajorDensWs,"Ws,Urban"
+400,WWTPMinorDensCat,"Cat,Urban"
+401,WWTPMinorDensWs,"Ws,Urban"
+402,WWTPAllDensCat,"Cat,Urban"
+403,WWTPAllDensWs,"Ws,Urban"
