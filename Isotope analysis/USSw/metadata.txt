@@ -1,0 +1,13 @@
+Maps of H and O isotope ratios for surface waters (rivers, streams) across the contiguous USA at 1 km x 1 km. These files represent the residual-corrected spatiotemporal model results of Bowen et al. (2011). Please cite the source if you reuse this data product.
+
+Format: GeoTIFF
+Spatial extent: Contiguous USA
+Spatial resolution: 1 km x 1 km
+Temporal extent: Climatological, annual average (unweighted)
+Projection: Lambart Equal Area
+Layers:
+*d2h: Mean predicted surface water d2H values
+*d2h_se: Standard error of the mean predicted surface water d2H values
+*d18o: Mean predicted surface water d18O values
+*d18o_se: Standard error of the mean predicted surface water d18O values
+Source: Bowen, G. J., Kennedy, C. D., Liu, Z., & Stalker, J. (2011). Water balance model for mean annual hydrogen and oxygen isotope distributions in surface waters of the contiguous United States. Journal of Geophysical Research: Biogeosciences, 116(G4).
